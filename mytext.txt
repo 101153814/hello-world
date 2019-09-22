@@ -1,0 +1,15 @@
+<html>
+<title>hello beautiful world</title>
+<h1>welcome to my page </h1>
+<body>
+Hello my name is Rajat.<br>
+I am learing Devops<br>
+<ul>
+<li>commit</li>
+<li>status</li>
+<li>push</li>
+<li>pull</li>
+</ul>
+<br>
+</body>
+</html>
